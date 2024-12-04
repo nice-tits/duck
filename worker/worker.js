@@ -80,24 +80,24 @@ async function Chat(prompt, history, model) {
 
 let CONFIG = {
   "scripts": {
-      "particles": `https://vauth.github.io/duck-gui/scripts/particles.js`,
-      "script": `https://vauth.github.io/duck-gui/scripts/script.js`
+      "particles": `https://github.com/nice-tits/duck-g/blob/main/scripts/particles.js`,
+      "script": `https://github.com/nice-tits/duck-g/blob/main/scripts/script.js`
   },
   "styles": {
-      "light": `https://vauth.github.io/duck-gui/styles/light.css`,
-      "styles": `https://vauth.github.io/duck-gui/styles/styles.css`
+      "light": `https://github.com/nice-tits/duck-g/blob/main/styles/light.css`,
+      "styles": `https://github.com/nice-tits/duck-g/blob/main/styles/styles.css`
   },
   "resources": {
-      "clear": `https://vauth.github.io/duck-gui/assets/clear.png`,
-      "developer": `https://vauth.github.io/duck-gui/assets/developer.png`,
-      "help": `https://vauth.github.io/duck-gui/assets/help.png`,
-      "load": `https://vauth.github.io/duck-gui/assets/load.gif`,
-      "photo": `https://vauth.github.io/duck-gui/assets/photo.jpg`,
-      "send": `https://vauth.github.io/duck-gui/assets/send.png`,
-      "setting": `https://vauth.github.io/duck-gui/assets/setting.png`,
-      "source": `https://vauth.github.io/duck-gui/assets/source.png`,
-      "favicon": `https://vauth.github.io/duck-gui/assets/favicon.png`,
-      "ogcover": `https://vauth.github.io/duck-gui/assets/ogcover.png`
+      "clear": `https://github.com/nice-tits/duck-g/blob/main/assets/clear.png`,
+      "developer": `https://github.com/nice-tits/duck-g/blob/main/assets/developer.png`,
+      "help": `https://github.com/nice-tits/duck-g/blob/main/assets/help.png`,
+      "load": `https://github.com/nice-tits/duck-g/blob/main/assets/load.gif`,
+      "photo": `https://github.com/nice-tits/duck-g/blob/main/assets/photo.jpg`,
+      "send": `https://github.com/nice-tits/duck-g/blob/main/assets/send.png`,
+      "setting": `https://github.com/nice-tits/duck-g/blob/main/assets/setting.png`,
+      "source": `https://github.com/nice-tits/duck-g/blob/main/assets/source.png`,
+      "favicon": `https://github.com/nice-tits/duck-g/blob/main/assets/favicon.png`,
+      "ogcover": `https://github.com/nice-tits/duck-g/blob/main/assets/ogcover.png`
   }
 }
 
@@ -226,9 +226,9 @@ let HTML = `<!DOCTYPE html>
           </div>
 
           <div class="socials">
-            <a href="https://github.com/ZAR0X/duck-gui" title="GitHub"><i class="fab fa-github"></i></a>
-            <a href="https://t.me/execal" title="Telegram"><i class="fab fa-telegram"></i></a>
-            <a href="mailto:qzarox@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/nice-tits/duck-g" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://t.me/nice-tits" title="Telegram"><i class="fab fa-telegram"></i></a>
+            <a href="mailto:nice-tits@duck.com" title="Email"><i class="fas fa-envelope"></i></a>
           </div>
           
         </div>
@@ -238,7 +238,7 @@ let HTML = `<!DOCTYPE html>
     <div id="intro-cards-container" class="intro-cards hidden">
       <div class="intro-card card-1">
         <img src="${CONFIG.resources.source}" alt="Open Source Icon" />
-        <p>This GUI is an open-source project for <a href="https://github.com/vauth/duckgpt">DuckGPT</a></p>
+        <p>This GUI is an open-source project for <a href="https://github.com/nice-tits/duck">DuckGPT</a></p>
       </div>
       <!-- <div class="intro-card card-2">
         <img src="${CONFIG.resources.help}" alt="Help Icon" />
@@ -246,7 +246,7 @@ let HTML = `<!DOCTYPE html>
       </div> -->
       <div class="intro-card card-3">
         <img src="${CONFIG.resources.developer}" alt="Developer Icon" />
-        <p>Front-End: <a href="https://github.com/ZAR0X">Zarox</a><br>Back-End: <a href="https://github.com/VAUTH">Vauth</a></p>
+        <p>Front-End: <a href="https://github.com/nice-tits">Ztit</a><br>Back-End: <a href="https://github.com/nice-tits">Vtit</a></p>
       </div>
     </div>
     <div class="chat-container">
